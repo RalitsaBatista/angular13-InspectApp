@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  width: 100%;
+  align-items: stretch;
+}
+.sidebar {
+  width: 280px;
+  height: 100vh;
+}
+#content {
+  width: 75%;
+}
+
+.profilepic {
+  background-image: url(https://source.unsplash.com/STvyJSJojBI/1600x900);
+}
